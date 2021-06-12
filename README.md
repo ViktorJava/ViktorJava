@@ -5,6 +5,8 @@ I am currently looking for a job as a Java developer.
 I am a neat and hardworking person with an analytical and flexible mind. I devote all my time to the development of skills and abilities in programming.
 </p>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ViktorJava&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 🌱 I’m currently learning:
 - Profiling: **jps, jmap, jstat, jconsole**
 - **GC** (Garbage Collector) 
